@@ -1,4 +1,4 @@
-iomex Poly-Saving Pre-fab Objects v1.1:
+iomex Poly-Saving Pre-fab Objects v1.1a:
 Thank you for downloading this pack of Low-poly pavement prefabs, compatible with iomex's pavements, made by me, Road-hog123.
 
 Installation:
@@ -14,6 +14,9 @@ Redistribution:
 - Full Content Redistribution Information: https://www.dropbox.com/s/scz85686qwjqvji/_ContentRedistributionInfo.txt
 
 Changelog:
+1.1a:
+- Fixed bug where log file announced pavement_mid.jpg.cfg and kerb_low.jpg.cfg could not be loaded
+
 1.1:
 - Corrected rotation on 90° corner pieces
 - Added dropped kerb start and end pieces for 3 metre and 1 metre wide pavements in low, mid, high and grass variants
