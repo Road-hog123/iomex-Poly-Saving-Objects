@@ -1,0 +1,19 @@
+* eol=lf working-tree-encoding=UTF-8 encoding=UTF-8
+[attr]omsi text eol=crlf working-tree-encoding=CP1252 encoding=CP1252 -linguist-detectable
+
+# Source Model Files
+*.blend binary
+*.x text eol=crlf working-tree-encoding=CP1252 encoding=CP1252 linguist-generated
+
+# OMSI Files
+*.o3d binary
+*.dds binary
+*.cfg omsi
+*.sco omsi
+
+# Repository Files
+LICENSE text
+README.md text
+Read-me.txt text eol=crlf
+.gitignore text
+.gitattributes text
