@@ -1,6 +1,8 @@
 # iomexLH-Compatible-Prefabs
 Prefabricated parts, compatible with the iomexLH road and pavement splines, to help reduce the polycount of custom junctions
 
+As of 2023-05-19 this repository is read-only—no changes have been made for almost 6 years, and I don't expect to make any.
+
 ## Installation:
 - Locate your Omsi 2 installation directory, which is by default:
   - 32-bit systems: "C:\Program Files\Steam\steamapps\common\OMSI 2\"
@@ -12,11 +14,9 @@ You are permitted to redistribute the contents of the release zips as follows:
 - You are free to use the release content in any freeware or payware map.
 - You are free to include the release content in the download of your map.
 - You are free to modify the release content and redistribute that modified content standalone or with a map.
-- Full Content Redistribution Information: https://www.dropbox.com/s/scz85686qwjqvji/_ContentRedistributionInfo.txt
 Source Files:
 - These can help you to modify the release content to your liking.
 - If you are modifying anything, you must place the modified files in another folder so they don't overwrite my content.
-- If you want the modifications to be present in the main release, submit a pull request.
 - Please acknowledge that you used my source material when releasing modifications.
 
 ## Changelog:

@@ -11,7 +11,6 @@ Redistribution:
 - You are free to use this content in any freeware or payware map.
 - You are free to include the files in this download in the download of your map.
 - You are free to modify this content and redistribute that modified content standalone or with a map.
-- Full Content Redistribution Information: https://www.dropbox.com/s/scz85686qwjqvji/_ContentRedistributionInfo.txt
 
 Changelog:
 1.1a:
